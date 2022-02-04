@@ -12,3 +12,5 @@ apt install python2
 apt install git
 
 git clone https://github.com/CyberDemon404/password-generator
+
+python2 p-gen.py
